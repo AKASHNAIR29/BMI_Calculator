@@ -1,0 +1,1 @@
+create table bmi(name varchar(25) not null, age int not null, phone int not null, gender text, height float, weigth float);
